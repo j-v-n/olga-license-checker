@@ -1,4 +1,4 @@
-List of acceptable feature names for license_checker.py:
+List of acceptable feature names for olga_license_checker.py:
 -olga
 -gui
 -batch
